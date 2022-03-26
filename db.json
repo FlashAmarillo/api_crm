@@ -25,14 +25,6 @@
       "id": 3
     },
     {
-      "nombre": "Antonio Ricardo Jose Marlene de la Cruz",
-      "empresa": "Marlene software solutions",
-      "email": "Marlene@correo.com",
-      "telefono": "1115558886",
-      "notas": "Empresa de software especializado",
-      "id": 6
-    },
-    {
       "nombre": "Spotify",
       "empresa": "Spotify international",
       "email": "spotify@company.com",
@@ -41,11 +33,11 @@
       "id": 8
     },
     {
-      "nombre": "Carlos Antonio Borregos ACTUALIZADO",
-      "empresa": "Borregos Institute of technology",
-      "email": "borregos@correo.com",
-      "telefono": "51515151512",
-      "notas": "Instituto internacional de reconocimiento y programación tecnológico de Borregos y Santiago de León ",
+      "nombre": "Diomar Carolina Villarroel Actualizado",
+      "empresa": "Carolas-Shop",
+      "email": "carola@correo.com",
+      "telefono": "888555222111",
+      "notas": "Carolas-shop abre sus puertas",
       "id": 9
     }
   ]

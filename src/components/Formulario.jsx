@@ -36,7 +36,7 @@ const Formulario = ({ cliente, cargando }) => {
         let respuesta;
         if(cliente.id) {
             //Editando un registro
-            const url = `http://localhost:4000/clientes/${cliente.id}`;
+            const url = `${import.meta.env.VITE_API_URL}/${cliente.id}`;
 
             respuesta = await fetch(url, {
                 method: 'PUT', //PUT actualiza un registro, por eso en la URL se indica el ID para actualizar los datos
@@ -47,7 +47,7 @@ const Formulario = ({ cliente, cargando }) => {
             })
         } else {
             // Nuevo Registro de usuario
-            const url = 'http://localhost:4000/clientes'
+            const url = import.meta.env.VITE_API_URL;
 
             respuesta = await fetch(url, {
                 method: 'POST', // POST crea un nuevo registro
