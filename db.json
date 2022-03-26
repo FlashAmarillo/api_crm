@@ -1,0 +1,52 @@
+{
+  "clientes": [
+    {
+      "nombre": "Diomar Villarroel",
+      "empresa": "diomar software",
+      "email": "correo@correo.com",
+      "telefono": "111222333",
+      "notas": "Cliente quiere una pagina web Actualizado por segunda vez",
+      "id": 1
+    },
+    {
+      "nombre": "Isabella Andrea Villarroel",
+      "empresa": "Isabella Design",
+      "email": "isabella@correo.com",
+      "telefono": "555666999",
+      "notas": "isabella compañia de diseño 2 actualizada",
+      "id": 2
+    },
+    {
+      "nombre": "Lusi",
+      "empresa": "Antojos Peligrosos",
+      "email": "antojos@correo.com",
+      "telefono": "999777222",
+      "notas": "empresa antojos cancelo un producto",
+      "id": 3
+    },
+    {
+      "nombre": "Antonio Ricardo Jose Marlene de la Cruz",
+      "empresa": "Marlene software solutions",
+      "email": "Marlene@correo.com",
+      "telefono": "1115558886",
+      "notas": "Empresa de software especializado",
+      "id": 6
+    },
+    {
+      "nombre": "Spotify",
+      "empresa": "Spotify international",
+      "email": "spotify@company.com",
+      "telefono": "",
+      "notas": "",
+      "id": 8
+    },
+    {
+      "nombre": "Carlos Antonio Borregos ACTUALIZADO",
+      "empresa": "Borregos Institute of technology",
+      "email": "borregos@correo.com",
+      "telefono": "51515151512",
+      "notas": "Instituto internacional de reconocimiento y programación tecnológico de Borregos y Santiago de León ",
+      "id": 9
+    }
+  ]
+}
